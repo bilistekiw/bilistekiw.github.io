@@ -1,12 +1,14 @@
 a:link {
         color: #FFFAFA;
-        text-decoration:none
+        text-decoration:none;
       }
 a:active {
-        color: #F8F8FF
+        color: #F8F8FF;
+        text-decoration:none;
       }
 a:visited {
-        color:#F8F8FF
+        color:#F8F8FF;
+        text-decoration:none;
       }
 body {
         background-color:#000000
