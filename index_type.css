@@ -17,8 +17,7 @@ h1 {
         color: #FFFAFA;
         text-align: center;
 }
-.bgimage {
-        background-image:url("http://pic.bizhi360.com/bbpic/7/5107.jpg");
+.bgimage {;
         background-image:url("5107.jpg");
         width: 100%;
         height: 600px;
